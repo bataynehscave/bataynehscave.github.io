@@ -1248,12 +1248,18 @@ button:focus {
 	.slick-dots {
 		bottom: 15px;
 	}
+	.description{
+		display: none;
+	}
 			
 
 }
 
 
 @media (max-width: 480px) {
+	.description{
+		display: none;
+	}
 
 	#mu-header {
 		padding: 10px 0;
